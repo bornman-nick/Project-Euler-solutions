@@ -1,2 +1,2 @@
 # Project-Euler-solutions
-Python file which contains my solutions to various problems from Project Euler (https://projecteuler.net)
+Python file of my solutions to various problems from Project Euler (https://projecteuler.net)
